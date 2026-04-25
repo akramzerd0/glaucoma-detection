@@ -16,7 +16,7 @@ This is a Gradio app for glaucoma detection from retinal fundus images.
 2. The app resizes it to `224x224`
 3. It applies VGG16 preprocessing
 4. It gets the model probability for **RG**
-5. It applies the selected threshold (`0.45`)
+5. It applies the selected threshold (`0.65`)
 6. It returns **NRG** or **RG**
 
 ## Important
