@@ -19,5 +19,3 @@ This is a Gradio app for glaucoma detection from retinal fundus images.
 5. It applies the selected threshold (`0.65`)
 6. It returns **NRG** or **RG**
 
-## Important
-If your final notebook gave you a different best threshold, update the `THRESHOLD` value in `app.py`.
