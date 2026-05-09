@@ -72,7 +72,7 @@ Nous avons utilisé le modèle pré-entraîné **VGG16** (transfer learning).
 
 Le modèle a été évalué à l’aide de :
 - Accuracy  
-- Matrice de confusion  ![Confusion Matrix](matrix.png)
+- Matrice de confusion  
 - Analyse des faux positifs / faux négatifs  
 
 ---
