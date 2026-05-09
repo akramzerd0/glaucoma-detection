@@ -133,14 +133,6 @@ Utilisé pour :
 
 ---
 
-## Équipe
-
-- Akram Zerdaoui  
-- Sabrina Dahmar  
-- Yasmine Taoudiat  
-
----
-
 ## Conclusion
 
 Ce projet montre comment l’intelligence artificielle peut aider à détecter le glaucome de manière précoce, tout en soulignant l’importance des données et du prétraitement.
